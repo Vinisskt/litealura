@@ -1,0 +1,42 @@
+### Java/Maven ###
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.ctxt
+
+### Maven Wrapper ###
+.mvn/wrapper/maven-wrapper.jar
+
+### Eclipse ###
+.settings/
+.classpath
+.project
+.factorypath
+.metadata/
+bin/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+### Operating System ###
+.DS_Store
+Thumbs.db
+
+### Local Configuration ###
+# Descomente a linha abaixo se quiser esconder sua senha do banco de dados
+# src/main/resources/application.properties
+
+### Temporary Files ###
+*.tmp
+*.bak
+*.swp
+*~
